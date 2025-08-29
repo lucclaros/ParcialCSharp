@@ -1,0 +1,6 @@
+C:\Users\Laboratorio\Desktop\parcial\SegundoParcial\SegundoParcial\bin\Debug\SegundoParcial.exe
+C:\Users\Laboratorio\Desktop\parcial\SegundoParcial\SegundoParcial\bin\Debug\SegundoParcial.pdb
+C:\Users\Laboratorio\Desktop\parcial\SegundoParcial\SegundoParcial\obj\x86\Debug\SegundoParcial.exe
+C:\Users\Laboratorio\Desktop\parcial\SegundoParcial\SegundoParcial\obj\x86\Debug\SegundoParcial.pdb
+C:\Users\Lucas\Downloads\parcial\parcial\SegundoParcial\SegundoParcial\obj\x86\Debug\SegundoParcial.exe
+C:\Users\Lucas\Downloads\parcial\parcial\SegundoParcial\SegundoParcial\obj\x86\Debug\SegundoParcial.pdb
